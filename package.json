@@ -1,6 +1,6 @@
 {
   "name": "react-native-vector-icons-iconfont",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "iconfont fontawesome",
   "main": "index.js",
   "bin": {
@@ -10,7 +10,7 @@
     "build": "rm -rf {Fonts,IconFont.js,FontAwesome.js,glyphmaps} && mkdir Fonts glyphmaps && npm run build-fontawesome && npm run build-iconfont ",
     "build-fontawesome": "node generate-icon node_modules/font-awesome/css/font-awesome.css --prefix=.fa- --componentName=FontAwesome --fontFamily=FontAwesome --template=templates/separated-icon-set.tpl --glyphmap=glyphmaps/FontAwesome.json > FontAwesome.js && cp node_modules/font-awesome/fonts/fontawesome-webfont.ttf Fonts/FontAwesome.ttf",
     "build-iconfont": "node generate-icon iconfont/iconfont.css --prefix=icon- --componentName=IconFont --fontFamily=IconFont --template=templates/separated-icon-set.tpl --glyphmap=glyphmaps/IconFont.json > IconFont.js && cp iconfont/iconfont.ttf Fonts/IconFont.ttf"
-   },
+  },
   "keywords": [
     "react-native",
     "react-component",
