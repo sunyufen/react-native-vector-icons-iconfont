@@ -26,4 +26,6 @@ add http://www.iconfont.cn/ lib
 
 6. npm install
 
+7. android cp Fonts/IconFont.ttf android/src/main/assets/fonts、 
+ 
 
