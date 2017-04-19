@@ -1,12 +1,12 @@
 /**
- * Foundation icon set component.
- * Usage: <Foundation name="icon-name" size={20} color="#4F8EF7" />
+ * IconFont icon set component.
+ * Usage: <IconFont name="icon-name" size={20} color="#4F8EF7" />
  */
 
 import createIconSet from './lib/create-icon-set';
-import glyphMap from './glyphmaps/Foundation.json';
+import glyphMap from './glyphmaps/IconFont.json';
 
-const iconSet = createIconSet(glyphMap, 'fontcustom', 'Foundation.ttf');
+const iconSet = createIconSet(glyphMap, 'IconFont', 'iconfont.ttf');
 
 export default iconSet;
 
