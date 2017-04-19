@@ -1,15 +1,15 @@
 {
-  "name": "react-native-vector-icons",
-  "version": "4.0.1",
-  "description": "Customizable Icons for React Native with support for NavBar/TabBar/ToolbarAndroid, image source and full styling.",
+  "name": "react-native-vector-icons-iconfont",
+  "version": "1.0.0",
+  "description": "iconfont fontawesome",
   "main": "index.js",
   "bin": {
     "generate-icon": "./generate-icon.js"
   },
   "scripts": {
-    "build": "rm -rf {Fonts,IconFont.js,FontAwesome.js,glyphmaps} && mkdir Fonts glyphmaps && npm run build-fontawesome && npm run iconfont ",
+    "build": "rm -rf {Fonts,IconFont.js,FontAwesome.js,glyphmaps} && mkdir Fonts glyphmaps && npm run build-fontawesome && npm run build-iconfont ",
     "build-fontawesome": "node generate-icon node_modules/font-awesome/css/font-awesome.css --prefix=.fa- --componentName=FontAwesome --fontFamily=FontAwesome --template=templates/separated-icon-set.tpl --glyphmap=glyphmaps/FontAwesome.json > FontAwesome.js && cp node_modules/font-awesome/fonts/fontawesome-webfont.ttf Fonts/FontAwesome.ttf",
-    "build-iconfont": "node generate-icon iconfont/iconfont.css --prefix=.fa- --componentName=IconFont --fontFamily=IconFont --template=templates/separated-icon-set.tpl --glyphmap=glyphmaps/IconFont.json > FontAwesome.js && cp iconfont/iconfont.ttf Fonts/IconFont.ttf"
+    "build-iconfont": "node generate-icon iconfont/iconfont.css --prefix=icon- --componentName=IconFont --fontFamily=IconFont --template=templates/separated-icon-set.tpl --glyphmap=glyphmaps/IconFont.json > IconFont.js && cp iconfont/iconfont.ttf Fonts/IconFont.ttf"
    },
   "keywords": [
     "react-native",
@@ -27,19 +27,20 @@
     "icons",
     "vector",
     "retina",
-    "font"
+    "font",
+    "iconfont"
   ],
   "author": {
-    "name": "Joel Arvidsson",
-    "email": "joel@oblador.se"
+    "name": "angrycans",
+    "email": "angrycans@gmail.com"
   },
-  "homepage": "https://github.com/oblador/react-native-vector-icons",
+  "homepage": "https://github.com/angrycans/react-native-vector-icons-iconfont",
   "bugs": {
-    "url": "https://github.com/oblador/react-native-vector-icons/issues"
+    "url": "https://github.com/angrycans/react-native-vector-icons-iconfont/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/oblador/react-native-vector-icons.git"
+    "url": "git://github.com/angrycans/react-native-vector-icons-iconfont.git"
   },
   "license": "MIT",
   "rnpm": {
