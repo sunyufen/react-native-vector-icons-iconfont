@@ -14,18 +14,15 @@ add http://www.iconfont.cn/ lib
 
 
 ##update iconfont 
-1. cp http://www.iconfont.cn/ your lib to /iconfont
+1. cd {your project}/node_modules/react-native-vector-icons-iconfont
 
-2. npm run build
+2. cp http://www.iconfont.cn/ your lib to iconfont/
 
-3. npm version  {new version}
+3. npm run build
 
-4. npm publish
+4. only android need cp Fonts/IconFont.ttf android/src/main/assets/fonts
 
-5. Your project package.json react-native-vector-icons-iconfont {new version}
 
-6. npm install
 
-7. android cp Fonts/IconFont.ttf android/src/main/assets/fonts、 
  
 
