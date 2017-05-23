@@ -1,6 +1,6 @@
 {
-  "name": "react-native-vector-icons-iconfont",
-  "version": "1.0.4",
+  "name": "react-native-vector-icons-qmicon",
+  "version": "1.0.3",
   "description": "iconfont fontawesome",
   "main": "index.js",
   "bin": {
@@ -31,8 +31,8 @@
     "iconfont"
   ],
   "author": {
-    "name": "angrycans",
-    "email": "angrycans@gmail.com"
+    "name": "qmued",
+    "email": "ued@qianmi.com"
   },
   "homepage": "https://github.com/angrycans/react-native-vector-icons-iconfont",
   "bugs": {
