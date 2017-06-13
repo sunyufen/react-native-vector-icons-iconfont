@@ -1,5 +1,7 @@
 {
   "72": 59039,
+  "weixin11": 59109,
+  "zhifubao2": 59111,
   "gengduo1": 58920,
   "fanhui1": 58924,
   "shouji1": 58907,
@@ -14,6 +16,7 @@
   "guanbi2": 58887,
   "weixin": 59019,
   "xiala": 58882,
+  "zhifubaozhifu": 59108,
   "qq": 58881,
   "duihao": 58889,
   "dianhua": 59105,
@@ -50,6 +53,7 @@
   "lianxikefu": 58981,
   "procurement": 59041,
   "yanjing": 58909,
+  "jianpanshanchu": 59167,
   "daikexiadan": 59038,
   "xinghao": 58956,
   "biaoqing": 59238,
@@ -69,6 +73,8 @@
   "gongshangyinhang": 59000,
   "nongyeyinhang": 59002,
   "zhaoshangyinhang": 59004,
+  "xiajia1": 58930,
+  "shangjia": 58931,
   "shouye-shouye": 59110,
   "jiaotongyinhang": 58937,
   "xiangxia": 58950,
@@ -233,5 +239,8 @@
   "wodezhanji": 59447,
   "shoupairenwu": 59448,
   "qqkongjian": 59449,
-  "gou": 58998
+  "gou": 58998,
+  "xiajiantou": 59049,
+  "shouyin": 58912,
+  "daogou": 58915
 }
