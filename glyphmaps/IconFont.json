@@ -45,6 +45,7 @@
   "dingdan1": 58997,
   "wo": 59015,
   "shaixuan": 58905,
+  "youhuiquan": 59025,
   "fenlei": 59067,
   "iconLocation": 58908,
   "xiaoliangyuce": 59534,
@@ -228,7 +229,6 @@
   "caozuotishi": 59422,
   "wodeyuangong": 59425,
   "weixuanzhong": 58993,
-  "tuikuan": 59432,
   "shangpinliebiao": 59433,
   "shangpinshangxiajia": 59434,
   "zhanshiyufenlei": 59436,
@@ -245,7 +245,10 @@
   "shoupairenwu": 59448,
   "qqkongjian": 59449,
   "gou": 58998,
+  "manjianbaoyou": 58923,
   "xiajiantou": 59049,
   "shouyin": 58912,
-  "daogou": 58915
+  "daogou": 58915,
+  "sale": 58925,
+  "tuikuan": 58999
 }
