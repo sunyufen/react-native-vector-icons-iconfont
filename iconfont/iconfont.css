@@ -1,10 +1,10 @@
 
 @font-face {font-family: "iconfont";
-  src: url('iconfont.eot?t=1498793731413'); /* IE9*/
-  src: url('iconfont.eot?t=1498793731413#iefix') format('embedded-opentype'), /* IE6-IE8 */
-  url('iconfont.woff?t=1498793731413') format('woff'), /* chrome, firefox */
-  url('iconfont.ttf?t=1498793731413') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+*/
-  url('iconfont.svg?t=1498793731413#iconfont') format('svg'); /* iOS 4.1- */
+  src: url('iconfont.eot?t=1502076947132'); /* IE9*/
+  src: url('iconfont.eot?t=1502076947132#iefix') format('embedded-opentype'), /* IE6-IE8 */
+  url('iconfont.woff?t=1502076947132') format('woff'), /* chrome, firefox */
+  url('iconfont.ttf?t=1502076947132') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+*/
+  url('iconfont.svg?t=1502076947132#iconfont') format('svg'); /* iOS 4.1- */
 }
 
 .iconfont {
@@ -113,6 +113,8 @@
 
 .icon-iconLocation:before { content: "\e61c"; }
 
+.icon-sort:before { content: "\e620"; }
+
 .icon-xiaoliangyuce:before { content: "\e88e"; }
 
 .icon-yunshangcheng:before { content: "\e65d"; }
@@ -124,6 +126,8 @@
 .icon-kefu01:before { content: "\e60f"; }
 
 .icon-guanbi11:before { content: "\e82d"; }
+
+.icon-download-solid:before { content: "\e6ad"; }
 
 .icon-liwu:before { content: "\e73a"; }
 
@@ -141,13 +145,19 @@
 
 .icon-biaoqing:before { content: "\e766"; }
 
+.icon-instruction:before { content: "\e652"; }
+
 .icon-riqi:before { content: "\e8a6"; }
 
 .icon-pingtaiwangguan:before { content: "\e725"; }
 
 .icon-jiansheyinhang:before { content: "\e618"; }
 
+.icon-main-warehouse:before { content: "\e6d6"; }
+
 .icon-all-content:before { content: "\e631"; }
+
+.icon-store:before { content: "\e635"; }
 
 .icon-dadianhua:before { content: "\e918"; }
 
@@ -483,6 +493,8 @@
 
 .icon-weixuanzhong:before { content: "\e671"; }
 
+.icon-trucks:before { content: "\e88b"; }
+
 .icon-shangpinliebiao:before { content: "\e829"; }
 
 .icon-shangpinshangxiajia:before { content: "\e82a"; }
@@ -519,7 +531,7 @@
 
 .icon-xiajiantou:before { content: "\e6a9"; }
 
-.icon-shouyin:before { content: "\e620"; }
+.icon-cashier-role:before { content: "\e6f8"; }
 
 .icon-daogou:before { content: "\e623"; }
 
@@ -540,4 +552,12 @@
 .icon-tuikuan:before { content: "\e677"; }
 
 .icon-boss-task:before { content: "\e6c4"; }
+
+.icon-scheduling:before { content: "\e634"; }
+
+.icon-collection-order:before { content: "\e6aa"; }
+
+.icon-community-store:before { content: "\e666"; }
+
+.icon-equipment-management:before { content: "\e638"; }
 
