@@ -59,6 +59,8 @@
   "download-solid": 59053,
   "liwu": 59194,
   "lianxikefu": 58981,
+  "editor-bold": 59164,
+  "switch-store": 59008,
   "procurement": 59041,
   "yanjing": 58909,
   "jianpanshanchu": 59167,
@@ -267,9 +269,13 @@
   "sale": 58925,
   "team-management": 59711,
   "tuikuan": 58999,
+  "editor-bold-uncheck": 58934,
+  "editor-color": 58939,
+  "editor-keyboard": 58941,
   "boss-task": 59076,
   "scheduling": 58932,
   "collection-order": 59050,
   "community-store": 58982,
-  "equipment-management": 58936
+  "equipment-management": 58936,
+  "cashier-management": 58943
 }
