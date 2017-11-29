@@ -94,6 +94,7 @@
   "xinghao": 58956,
   "biaoqing": 59238,
   "praise-white": 59017,
+  "stop": 59098,
   "shopping-bag": 59063,
   "enterprise": 59045,
   "recent-order": 59066,
@@ -401,5 +402,6 @@
   "stock-taking": 59091,
   "sales-performance": 59090,
   "earnings": 59092,
-  "qianmi-currency": 59093
+  "qianmi-currency": 59093,
+  "swtich-supply": 59099
 }
