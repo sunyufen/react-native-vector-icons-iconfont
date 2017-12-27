@@ -4,7 +4,7 @@
   "weixin11": 59109,
   "zhifubao2": 59111,
   "gengduo1": 58920,
-  "fanhui1": 58924,
+  "fanhui": 58924,
   "shouji1": 58907,
   "jiahao1": 58985,
   "gengduo": 59013,
@@ -408,5 +408,9 @@
   "swtich-supply": 59099,
   "maLing": 59227,
   "discount": 59101,
-  "home-page": 59102
+  "home-page": 59102,
+  "hardware": 59106,
+  "cashier": 59107,
+  "advertising-screen": 59112,
+  "printer": 59113
 }
