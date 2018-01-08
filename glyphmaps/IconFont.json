@@ -412,5 +412,12 @@
   "hardware": 59106,
   "cashier": 59107,
   "advertising-screen": 59112,
-  "printer": 59113
+  "printer": 59113,
+  "fans": 59104,
+  "close": 59114,
+  "return": 59115,
+  "cart-wx": 59117,
+  "order": 59119,
+  "switch": 59120,
+  "self-order": 59121
 }
