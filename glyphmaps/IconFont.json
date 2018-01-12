@@ -392,7 +392,7 @@
   "partner": 59097,
   "purchase-manager": 59212,
   "tuiguangjiangli1": 59061,
-  "tuiguangjiangli-xuanzhong": 59029,
+  "promotion-rewards": 59271,
   "home": 59031,
   "purchase-order": 59069,
   "tab-goods": 59072,
@@ -413,11 +413,14 @@
   "cashier": 59107,
   "advertising-screen": 59112,
   "printer": 59113,
+  "picking": 59124,
   "fans": 59104,
   "close": 59114,
   "return": 59115,
   "cart-wx": 59117,
   "order": 59119,
   "switch": 59120,
-  "self-order": 59121
+  "face-capture-camera": 59121,
+  "face-capture-time": 59122,
+  "face-capture-light": 59123
 }
