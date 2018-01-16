@@ -54,6 +54,7 @@
   "money-remind": 58949,
   "yue": 59307,
   "kxborder": 58938,
+  "danjiantoushang": 59126,
   "fenxiang": 58914,
   "pinglun1": 58902,
   "dingdan1": 58997,
@@ -420,7 +421,11 @@
   "cart-wx": 59117,
   "order": 59119,
   "switch": 59120,
+  "zizhudiandan": 59129,
   "face-capture-camera": 59121,
   "face-capture-time": 59122,
-  "face-capture-light": 59123
+  "face-capture-light": 59123,
+  "pos-machine": 59029,
+  "hezuo": 59127,
+  "xiaochengxu": 59130
 }
