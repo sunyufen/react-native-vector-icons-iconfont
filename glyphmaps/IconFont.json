@@ -71,6 +71,7 @@
   "delivery": 59034,
   "xiaoliangyuce": 59534,
   "yunshangcheng": 58973,
+  "logo-cloud-shop": 59134,
   "wallet": 58944,
   "cry": 59168,
   "clear-cache": 59498,
@@ -412,6 +413,8 @@
   "maLing": 59227,
   "discount": 59101,
   "home-page": 59102,
+  "cate-closed": 59135,
+  "cate-open": 59136,
   "hardware": 59106,
   "cashier": 59107,
   "advertising-screen": 59112,
@@ -429,5 +432,6 @@
   "face-capture-light": 59123,
   "pos-machine": 59029,
   "cooperation": 59127,
-  "wx-program": 59130
+  "wx-program": 59130,
+  "chain-headquarters": 59138
 }
