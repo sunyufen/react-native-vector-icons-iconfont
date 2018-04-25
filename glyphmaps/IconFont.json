@@ -57,6 +57,7 @@
   "kxborder": 58938,
   "arrow-up": 59126,
   "fenxiang": 58914,
+  "jifenshangcheng": 59146,
   "pinglun1": 58902,
   "dingdan1": 58997,
   "wo": 59015,
@@ -109,6 +110,7 @@
   "jiansheyinhang": 58904,
   "main-warehouse": 59094,
   "all-content": 58929,
+  "mingpian": 59147,
   "return-goods": 59051,
   "store": 58933,
   "dadianhua": 59672,
@@ -445,5 +447,16 @@
   "headquarter": 59321,
   "live-camera-o": 59141,
   "fafangqianmibi": 59463,
-  "after-pay": 59143
+  "after-pay": 59143,
+  "huanxingchi": 59144,
+  "yingxiao1": 59322,
+  "sheguanliyuan": 59145,
+  "ruzhupingtai": 59148,
+  "shezhi2": 59149,
+  "EXCEL": 59150,
+  "yujing": 59152,
+  "redu": 59153,
+  "ruzhupingtai1": 59154,
+  "pingtaishanghu": 59155,
+  "ruzhushangpin": 59156
 }
