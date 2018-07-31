@@ -24,6 +24,7 @@
   "zhifubaozhifu": 59108,
   "qq": 58881,
   "duihao": 58889,
+  "icon4": 59276,
   "supply": 58957,
   "shopping-mall": 58945,
   "dianhua": 59105,
@@ -231,6 +232,7 @@
   "print": 59137,
   "sousuo1": 59277,
   "gouwuche1": 59281,
+  "hezuo": 59331,
   "category": 59095,
   "faxian-": 58919,
   "shop-address": 59096,
@@ -350,6 +352,7 @@
   "warehouse": 58952,
   "qqkongjian": 59449,
   "gou": 58998,
+  "kuaidiyuan": 59274,
   "fahuo": 59169,
   "pay": 59035,
   "manjianbaoyou": 58923,
@@ -507,6 +510,7 @@
   "card-normal": 59730,
   "card-clip-filling": 59731,
   "card-clip-normal": 59732,
+  "card-saoma": 59733,
   "xianjin": 59756,
   "pos-shuaqia": 59758,
   "pos-shuazhifubao1": 59763,
@@ -524,5 +528,10 @@
   "card-mail": 59205,
   "kuaidiyuan1": 59170,
   "yunshuguanli": 59171,
-  "outer-order": 59256
+  "outer-order": 59256,
+  "card-groups": 59272,
+  "card-groups-filling": 59273,
+  "up-arrow": 59822,
+  "danxiang": 59823,
+  "fanzhuan": 59275
 }
