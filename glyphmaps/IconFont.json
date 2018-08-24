@@ -160,6 +160,7 @@
   "bestpay": 58883,
   "eye-open": 59253,
   "store-manage": 59077,
+  "bianji": 59296,
   "gift": 59224,
   "gongshangyinhang": 59000,
   "nongyeyinhang": 59002,
@@ -548,5 +549,6 @@
   "danxiang": 59823,
   "fanzhuan": 59275,
   "card-group-share": 59285,
-  "group-erweima": 59286
+  "group-erweima": 59286,
+  "card-beizhu": 59297
 }
