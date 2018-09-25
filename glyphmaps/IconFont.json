@@ -520,6 +520,7 @@
   "yingxiao1": 59322,
   "sheguanliyuan": 59145,
   "ruzhupingtai": 59148,
+  "zuoyezhidaoshuon": 59273,
   "shezhi2": 59149,
   "EXCEL": 59150,
   "yujing": 59152,
@@ -563,7 +564,6 @@
   "mendianguanli": 59334,
   "ziliao": 59362,
   "outer-order": 59256,
-  "card-groups": 59272,
   "up-arrow": 59822,
   "danxiang": 59823,
   "hezuowoshou": 59395,
@@ -577,5 +577,10 @@
   "caigoushezhi": 59387,
   "xiaoshouzuoyesi": 59389,
   "tuihuozuoyesi": 59390,
-  "darenshezhi": 59396
+  "darenshezhi": 59396,
+  "card-groups": 59365,
+  "tuihuozuoyedan": 59364,
+  "card-home": 59272,
+  "card-pyq": 59367,
+  "dianpushouye": 59371
 }
