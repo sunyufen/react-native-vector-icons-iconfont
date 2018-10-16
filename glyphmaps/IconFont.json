@@ -582,5 +582,17 @@
   "tuihuozuoyedan": 59364,
   "card-home": 59272,
   "card-pyq": 59367,
-  "dianpushouye": 59371
+  "dianpushouye": 59371,
+  "zhuce": 59372,
+  "card-box-close": 59373,
+  "card-box-back": 59398,
+  "card-tongzhi": 59399,
+  "card-waiting": 59400,
+  "dingdanguanli": 59401,
+  "caigouguanli": 59402,
+  "cangchuguanli": 59403,
+  "peisongguanli": 59404,
+  "kehuguanli": 59405,
+  "shezhi3": 59406,
+  "yejifenxi": 59407
 }
