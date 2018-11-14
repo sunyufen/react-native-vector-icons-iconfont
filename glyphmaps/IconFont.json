@@ -14,6 +14,7 @@
   "gengduo": 59013,
   "guanbi1": 58913,
   "lengyin": 58940,
+  "bianji1": 59409,
   "crown": 58926,
   "shoucang3": 58897,
   "tianjia": 58910,
@@ -179,6 +180,7 @@
   "gongshangyinhang": 59000,
   "nongyeyinhang": 59002,
   "quanping": 59140,
+  "kucunguanli1": 59410,
   "zhaoshangyinhang": 59004,
   "member-data": 59003,
   "xiajia1": 58930,
@@ -594,5 +596,6 @@
   "peisongguanli": 59404,
   "kehuguanli": 59405,
   "shezhi3": 59406,
-  "yejifenxi": 59407
+  "yejifenxi": 59407,
+  "tijiaodingdan": 59408
 }
