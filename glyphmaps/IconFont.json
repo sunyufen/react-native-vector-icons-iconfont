@@ -8,6 +8,7 @@
   "gengduo1": 58920,
   "fanhui": 58924,
   "msnui-around": 59284,
+  "yibao": 59414,
   "shouji1": 58907,
   "jiahao1": 58985,
   "718kuaizhuangyingyong": 59283,
@@ -134,6 +135,7 @@
   "xinghao": 58956,
   "biaoqing": 59238,
   "praise-white": 59017,
+  "66yijifu": 59413,
   "stop": 59098,
   "shopping-bag": 59063,
   "enterprise": 59045,
@@ -599,5 +601,10 @@
   "shezhi3": 59406,
   "yejifenxi": 59407,
   "tijiaodingdan": 59408,
-  "xianshiyue": 59411
+  "xianshiyue": 59411,
+  "jifutubiao": 59415,
+  "zhinengcaigou": 59416,
+  "chuantongcaigou": 59417,
+  "jindiancaigou": 59418,
+  "huoyuanshichang": 59420
 }
