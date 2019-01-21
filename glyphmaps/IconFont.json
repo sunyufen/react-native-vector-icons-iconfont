@@ -606,14 +606,20 @@
   "kehuguanli": 59405,
   "shezhi3": 59406,
   "yejifenxi": 59407,
+<<<<<<< HEAD
   "jiantou": 59423,
   "tijiaodingdan": 59408,
   "xianshiyue": 59411,
   "community-buy": 59471,
+=======
+  "tijiaodingdan": 59408,
+  "xianshiyue": 59411,
+>>>>>>> 73924e3512fcdfef8fcb85a56b6e44aceae6c713
   "jifutubiao": 59415,
   "zhinengcaigou": 59416,
   "chuantongcaigou": 59417,
   "jindiancaigou": 59418,
+<<<<<<< HEAD
   "huoyuanshichang": 59420,
   "huodong": 59424,
   "delivery-time": 59426,
@@ -642,4 +648,7 @@
   "fenxiang1": 59475,
   "chengyuanshenhe1": 59476,
   "qidai1": 59459
+=======
+  "huoyuanshichang": 59420
+>>>>>>> 73924e3512fcdfef8fcb85a56b6e44aceae6c713
 }
